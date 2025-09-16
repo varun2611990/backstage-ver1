@@ -46,7 +46,7 @@
     "@backstage/plugin-catalog-node": "workspace:^",
     "@backstage/plugin-notifications-common": "workspace:^",
     "@backstage/plugin-notifications-node": "workspace:^",
-    "@backstage/types": "workspace:^",
+    "@backstage/types": "0.1.1",
     "lodash": "^4.17.21",
     "nodemailer": "^6.9.13",
     "p-throttle": "^4.1.1"
