@@ -49,13 +49,13 @@
   },
   "dependencies": {
     "@backstage/backend-defaults": "workspace:^",
-    "@backstage/backend-plugin-api": "workspace:^",
+    "@backstage/backend-plugin-api": "0.1.0",
     "@backstage/errors": "workspace:^",
     "@backstage/plugin-auth-node": "workspace:^",
-    "@backstage/plugin-signals-node": "workspace:^",
+    "@backstage/plugin-signals-node": "0.0.1",
     "@backstage/plugin-user-settings-common": "workspace:^",
-    "@backstage/types": "workspace:^",
-    "express": "^4.17.1",
+    "@backstage/types": "0.1.1",
+    "express": "^4.22.0",
     "express-promise-router": "^4.1.0",
     "knex": "^3.0.0"
   },
